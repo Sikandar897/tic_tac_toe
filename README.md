@@ -20,11 +20,11 @@ flutter run
 
 ## Features
 
-Clean MVVM architecture
-Responsive design
-Provider for state management
-Animated UI
-Restart and Close game functionality
+#### Clean MVVM architecture
+#### Responsive design
+#### Provider for state management
+#### Animated UI
+#### Restart and Close game functionality
 
 # Contributing
 Feel free to contribute to the project by opening issues or pull requests.
