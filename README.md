@@ -6,19 +6,19 @@ A simple Flutter implementation of the classic Tic Tac Toe game using the MVVM a
 
 Follow these steps to run the app on your local machine:
 
-# Clone the repository:
+## Clone the repository:
 git clone https://github.com/Sikandar897/tic_tac_toe_flutter.git
 
-# Navigate to the project directory:
+## Navigate to the project directory:
 cd tic_tac_toe_flutter
 
-# Install dependencies:
+## Install dependencies:
 flutter pub get
 
-# Run the app:
+## Run the app:
 flutter run
 
-# Features
+## Features
 
 Clean MVVM architecture
 Responsive design
