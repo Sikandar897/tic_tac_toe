@@ -1,16 +1,30 @@
-# tic_tac_toe
+# Tic Tac Toe Game
 
-A new Flutter project.
+A simple Flutter implementation of the classic Tic Tac Toe game using the MVVM architecture and Provider state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to run the app on your local machine:
 
-A few resources to get you started if this is your first Flutter project:
+# Clone the repository:
+git clone https://github.com/Sikandar897/tic_tac_toe_flutter.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Navigate to the project directory:
+cd tic_tac_toe_flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Install dependencies:
+flutter pub get
+
+# Run the app:
+flutter run
+
+## Features
+
+Clean MVVM architecture
+Responsive design
+Provider for state management
+Animated UI
+Restart and Close game functionality
+
+## Contributing
+Feel free to contribute to the project by opening issues or pull requests.
